@@ -8,10 +8,18 @@
 	<version>1.0-SNAPSHOT</version>
 	<name>LoginWebApp Maven Webaaak</name>
 	<url>http://maven.apache.org</url>
-	  <properties>
+<distributionManagement>
+  <repository>
+    <id>demo</id>
+    <url>http://35.160.207.59:8081/repository/LoginApplication/</url>
+  </repository>
+
+</distributionManagement>	 
+	 <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
   </properties>
+  
 	<dependencies>
 		<dependency>
 			<groupId>javax.servlet</groupId>
