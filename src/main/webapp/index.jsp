@@ -5,7 +5,13 @@
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>JSP Example</title>
     </head>
+<<<<<<< HEAD
     <body bgcolor="orange">
+=======
+
+    <body bgcolor="yellow">
+
+>>>>>>> branch 'LA-5' of https://github.com/developerTeam1/LoginApplication.git
         <form method="post" action="login.jsp">
             <center>
             <table border="0" width="30%" cellpadding="3">
