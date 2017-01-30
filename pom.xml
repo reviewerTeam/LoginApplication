@@ -6,7 +6,7 @@
 	<artifactId>LoginWebApp</artifactId>
 	<packaging>war</packaging>
 	<version>1.0-SNAPSHOT</version>
-	<name>LoginWebApp Maven Webaaak</name>
+	<name>LoginWebApp Maven Webaak</name>
 	<url>http://maven.apache.org</url>
 <distributionManagement>
   <repository>
