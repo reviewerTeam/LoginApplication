@@ -6,7 +6,7 @@
         <title>JSP Example</title>
     </head>
 
-    <body bgcolor="yellow">
+    <body bgcolor="green">
 
 
         <form method="post" action="login.jsp">
